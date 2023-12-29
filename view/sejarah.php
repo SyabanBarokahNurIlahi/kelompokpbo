@@ -78,7 +78,7 @@
             </div>
         </div>
     </div>
-    <div class="img-box" align="center">
+    <div class="img-box" align ="center">
         <img src="images/sejarah.jpg" alt="">
     </div>
     <div class="row justify-content-center">
