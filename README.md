@@ -10,7 +10,7 @@ Anggota:
 4. Argitha Trihapsari (E1E122044)
 5. Faisal Akyar (E1E122050)
 6. Agusriyati (E1E122087)
-7. Syaban Barokah Nur Ilahi (E1E122080)
+7. Syaban Barokah Nur Ilahi(E1E122080)
 8. Ashabul (E1E122091)
 9. Muhammad Akram Abbas (E1E122114)
 10. Muhammad Lutfi Fausan (E1E122118)
